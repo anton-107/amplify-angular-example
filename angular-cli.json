@@ -18,7 +18,9 @@
       "tsconfig": "tsconfig.json",
       "prefix": "app",
       "styles": [
-        "styles.css"
+        "styles.css",
+        "../node_modules/@aws-amplify/ui/src/Theme.css",
+        "../node_modules/@aws-amplify/ui/src/Angular.css"
       ],
       "scripts": [],
       "environments": {

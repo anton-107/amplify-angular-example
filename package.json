@@ -20,6 +20,7 @@
     "@angular/platform-browser": "^6.1.10",
     "@angular/platform-browser-dynamic": "^6.1.10",
     "@angular/router": "^6.1.10",
+    "@aws-amplify/ui": "^1.0.7",
     "aws-amplify": "^1.1.7",
     "aws-amplify-angular": "^2.0.10",
     "core-js": "^2.5.7",
